@@ -24,6 +24,7 @@ I'm Bea! A passionate software student from Brazil.
 
 <!-- GithubStats -->
 ![falakbea's GitHub stats](https://github-readme-stats.vercel.app/api?username=falakbea&show_icons=true&theme=gotham)
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falakbea&layout=compact&langs_count=7&theme=gotham"/>
 
 <!-- Portfolio -->
 ## Portfolio:
