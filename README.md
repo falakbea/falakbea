@@ -2,11 +2,11 @@
 ---
 <!-- Presentation -->
 <p>
-I'm Bea! A passionate software student from Brazil.
+I'm Bea! A passionate software testing and quality assurance enthusiast from Brazil.
+  
+  - 🌱 I’m currently studying Python and Django at WomakersCode Bootcamp. 
 
-  - 🌱 I’m currently studying Python and Django at WomakersCode Bootcamp 
-
-  - 🔭 I am looking for my first job opportunity. My dream is to solve problems using technology.
+  - 🔭 I am looking for my first role in technology.
 </p>
 
 <!-- Dropdown -->
